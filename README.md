@@ -3,7 +3,7 @@
 This repository contains a simple C program to demonstrate a **buffer overflow vulnerability**. The purpose of this demo is to educate students about insecure coding practices and their potential consequences.
 
 # pre-requisite
-- Install Visual Studio Code and add the C/C++ dependencies to run the C code. Refer to this : https://code.visualstudio.com/docs/languages/cpp
+- Install Visual Studio Code and add the C/C++ dependencies to run the C code. Please refer to this : https://code.visualstudio.com/docs/languages/cpp
 
 ## How It Works
 
