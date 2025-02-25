@@ -2,6 +2,9 @@
 
 This repository contains a simple C program to demonstrate a **buffer overflow vulnerability**. The purpose of this demo is to educate students about insecure coding practices and their potential consequences.
 
+# pre-requisite
+- Install Visual Studio code and add the C/C++ dependencies to run the C code. Refer to this : https://code.visualstudio.com/docs/languages/cpp
+
 ## How It Works
 
 - The program contains a vulnerable function that uses `strcpy` to copy user input into a fixed-size buffer without bounds checking.
