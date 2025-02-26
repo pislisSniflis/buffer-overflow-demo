@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/tajul/Documents/buffer-overflow-demo/vuln'
+relocations:     []
+...
